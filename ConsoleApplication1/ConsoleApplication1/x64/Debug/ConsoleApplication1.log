@@ -1,0 +1,7 @@
+﻿  Source1.cpp
+c:\users\ярослав\desktop\repo\pwnz\consoleapplication1\consoleapplication1\source1.cpp(17): warning C4473: "printf": передано недостаточно аргументов для строки формата
+  c:\users\ярослав\desktop\repo\pwnz\consoleapplication1\consoleapplication1\source1.cpp(17): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+  c:\users\ярослав\desktop\repo\pwnz\consoleapplication1\consoleapplication1\source1.cpp(17): note: отсутствующий вариативный аргумент "1" требуется для строки форматирования "%lf"
+  Source.cpp
+c:\users\ярослав\desktop\repo\pwnz\consoleapplication1\consoleapplication1\source.cpp(12): error C2065: end: необъявленный идентификатор
+  Создание кода...
